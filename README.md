@@ -1,4 +1,4 @@
-# WWSOS<!--- vim: set et sw=4 sts=4 : -->
+<!--- vim: set et sw=4 sts=4 : -->
 
 ## TWWHD 100%
 Beat the game while collecting the following:
